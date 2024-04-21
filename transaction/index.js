@@ -96,7 +96,7 @@ router.get('/:id', async function(req, res){
 })
 
 /**
- * POST - /transaction
+//  * POST - /transaction
  * @dev Create a new transaction
  * @param transaction_id(body) id of the transaction to create
  * @param delivery_date(body) delivery date of the transaction
